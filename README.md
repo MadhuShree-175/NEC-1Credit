@@ -19,4 +19,4 @@ ml-model:
 
 ![image](https://github.com/user-attachments/assets/ba86e505-80ff-40e1-804b-5053525d16f1)
 
-![image](https://github.com/user-attachments/assets/0a923870-6908-4ba3-ade7-cd7f0e53e91f)
+![image](https://github.com/user-attachments/assets/7e0ee090-965c-4d0d-8a2e-0095fe3b48c6)
