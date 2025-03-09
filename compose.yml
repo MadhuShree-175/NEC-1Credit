@@ -1,1 +1,16 @@
-Update this file to add the content
+version: '3'
+services:
+    madhu:
+      image: "madhushreeselvaraj/22it019-personal-api"
+      container_name: madhu_container
+      restart: always
+      ports:
+      - "5006:5000"
+
+    kiruthika:
+     image: "kiruthika183/22it018-personal-api"
+     container_name: kiruthika_container
+     restart: always
+     ports:
+      - "5007:5000"
+      
